@@ -1,4 +1,4 @@
-# Two Sum
+# Add Two Numbers
 # https://leetcode.com/problems/Add-Two-Numbers/
 # Difficulty: Med
 
